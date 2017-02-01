@@ -2,9 +2,9 @@ package test;
 
 public class Helloworld {
 		public static void main(String[] args) {
-			System.out.println("hhhhhh");
-			System.out.println("hhhhhh");
-			System.out.println("hhhhhh");
+			System.out.println("11111");
+			System.out.println("22");
+			System.out.println("333");
 		}
 
 }
